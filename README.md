@@ -7,6 +7,8 @@ A full-featured **Streamlit** web application that forecasts stock prices using 
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.31%2B-FF4B4B?logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+<img width="1911" height="1033" alt="image" src="https://github.com/user-attachments/assets/3a1a4f7b-cd7e-49ac-a7e0-42fd7269204d" />
+
 ---
 
 ## ✨ Features
@@ -197,3 +199,4 @@ MIT License — feel free to use for learning and portfolio projects.
 - **Data Engineering** — yfinance, Pandas, NumPy, scikit-learn
 - **Visualisation** — Plotly interactive charts
 - **Frontend** — Streamlit + custom CSS dark theme
+
