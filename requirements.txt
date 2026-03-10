@@ -1,20 +1,9 @@
-# ── Core ML / Data ────────────────────────────────
-tensorflow-cpu>=2.16.0
-numpy>=1.26.0
-pandas>=2.2.0
-scikit-learn>=1.4.0
-
-# ── Data Source ───────────────────────────────────
-yfinance>=0.2.36
-
-# ── Visualisation ─────────────────────────────────
-plotly>=5.18.0
-streamlit>=1.31.0
-
-# ── Sentiment Analysis ────────────────────────────
-vaderSentiment>=3.3.2
-
-# ── News Fetching ─────────────────────────────────
-requests>=2.31.0
-feedparser>=6.0.0
-
+tensorflow
+numpy
+pandas
+scikit-learn
+yfinance
+plotly
+vaderSentiment
+requests
+feedparser
