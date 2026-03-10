@@ -1,5 +1,5 @@
 # ── Core ML / Data ────────────────────────────────
-tensorflow>=2.16.0
+tensorflow-cpu>=2.16.0
 numpy>=1.26.0
 pandas>=2.2.0
 scikit-learn>=1.4.0
@@ -17,3 +17,4 @@ vaderSentiment>=3.3.2
 # ── News Fetching ─────────────────────────────────
 requests>=2.31.0
 feedparser>=6.0.0
+
